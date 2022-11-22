@@ -1,6 +1,6 @@
 # Typemaster
 
-![Design preview for the News homepage coding challenge](./design/desktop-design.png)
+![Design preview for the News homepage coding challenge](./design/desktop-design.jpg)
 
 ## Welcome! 👋
 
