@@ -1,6 +1,6 @@
 # Typemaster
 
-This is a solution to the [Typemaster Pre Launch challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/four-card-feature-section-weK1eFYK).
+![Design preview for the News homepage coding challenge](./design/desktop-design.png)
 
 ## Welcome! 👋
 
@@ -54,7 +54,7 @@ You can host your site using the above solutions or any other trusted providers.
 
 ## Submitting your solution
 
-Submit your solution on `B3 Tech` Slack Channel for the rest of the community to see.
+Submit your solution on your respective `Tech` Slack Channel for the rest of the community to see.
 
 Remember, if you're looking for feedback on your solution, be sure to ask questions when submitting it. The more specific and detailed you are with your questions, the higher the chance you'll get valuable feedback from the community.
 
